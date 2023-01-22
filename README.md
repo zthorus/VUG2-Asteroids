@@ -6,8 +6,8 @@ This is a simple and classic Asteroids arcade game for the VectorUGo-2 console. 
 Use the console joystick as follows:
 * Right: rotate spaceship clockwise.
 * Left: rotate spaceship counterclockwise.
-* Up: increase thrust of spaceship (spaceship will brake whenever joystick is released.
+* Up: increase thrust of spaceship (spaceship will brake whenever joystick is released).
 * Down: jump into hyperspace (spaceship will reappear at random position).
 * Fire: launch a missile. 
 
-Note: to avoid display flickering, it is recommended to increase the clock frequency of the vector-display interface of VectorUGo-2 fro 166 kHz to 250 kHz (by modifying the clock 1 output of the IP in clocks.vhd). This leads to adjust the x and y amplification of the display device.
+Note: to avoid display flickering, it is recommended to increase the clock frequency of the vector-display interface of VectorUGo-2 fro 166 kHz to 250 kHz (by modifying the clock 1 output of the IP in clocks.vhd). This leads to adjust the x and y amplification of the display device to get an optimal image size.
