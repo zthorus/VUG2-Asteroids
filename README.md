@@ -10,4 +10,4 @@ Use the console joystick as follows:
 * Down: jump into hyperspace (spaceship will reappear at random position).
 * Fire: launch a missile. 
 
-Note: to avoid display flickering, it is recommended to increase the clock frequency of the vector-display interface of VectorUGo-2 fro 166 kHz to 250 kHz (by modifying the clock 1 output of the IP in clocks.vhd). This leads to adjust the x and y amplification of the display device to get an optimal image size.
+Note: to moderate display flickering, it is recommended to increase the clock frequency of the vector-display interface of VectorUGo-2 fro 166 kHz to 250 kHz (by modifying the clock 1 output of the IP in clocks.vhd). This leads to adjust the x and y amplification of the display device to get an optimal image size.
